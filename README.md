@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋!</h2>
+<h1 align="center">Hi there 👋!</h1>
 
 <p align="center">My name is Jake Grogan. I'm interested in databases and distributed systems. Currently working on [GhostDB](https://github.com/jakekgrog/GhostDB). I like to use Go, Python, and NodeJS.</p>
 
