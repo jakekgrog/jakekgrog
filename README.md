@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋!</h1>
 
-<p align="center">My name is Jake Grogan. I'm interested in databases and distributed systems. Currently working on [GhostDB](https://github.com/jakekgrog/GhostDB). I like to use Go, Python, and NodeJS.</p>
+<p align="center">My name is Jake Grogan. I'm interested in databases and distributed systems. Currently working on <a href="https://github.com/jakekgrog/GhostDB">GhostDB</a>. I like to use Go, Python, and NodeJS.</p>
 
 <h3 align="center">Connect with me!</h3>
 <p align="center">
