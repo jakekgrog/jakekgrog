@@ -1,10 +1,12 @@
 <h2 align="center">Hi there 👋!</h2>
 
-My name is Jake Grogan. Currently working on [GhostDB](https://github.com/jakekgrog/GhostDB). I like to use Go, Python, and NodeJS.
+My name is Jake Grogan. I'm interested in databases and distributed systems. Currently working on [GhostDB](https://github.com/jakekgrog/GhostDB). I like to use Go, Python, and NodeJS.
 
 <h3 align="center">Connect with me!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jakegrogan/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
+  <a href="www.jakegrogan.com"><img src="https://img.icons8.com/nolan/64/domain.png"/></a>
+  
 </p>
 <br>
 <p>
